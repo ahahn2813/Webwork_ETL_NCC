@@ -26,8 +26,8 @@ The application cleans and restructures your exported roster automatically. Spec
 
 ### Windows Setup & Execution
 
-1. **Download:** From the repository (the files above), download the file `WebWorkETL_Windows_App.exe`.
-2. **Launch:** Double-click `WebWorkETL_Windows_App.exe` to run the tool.
+1. **Download:** Go to the [Releases page](https://github.com/ahahn2813/Webwork_ETL_NCC/releases/tag/v1.0.0) in this repository and download `WebworkETL_Windows_App.exe`.
+2. **Launch:** Double-click `WebworkETL_Windows_App.exe` to run the tool.
    * *SmartScreen Prompt:* If Windows shows a *"Windows protected your PC"* popup, click **More info** and then click **Run anyway**.
 3. **Format:**
    * Click **Browse...** and select the CSV file you exported from Merlin.
@@ -37,7 +37,7 @@ The application cleans and restructures your exported roster automatically. Spec
 ---
 ### macOS Setup & Execution
 
-1. **Download:** From the repository (the files above), download `webwork_ETL_mac.zip` (or `.app`).
+1. **Download:** Go to the [Releases page](https://github.com/ahahn2813/Webwork_ETL_NCC/releases/tag/v1.0.0) in this repository and download `WebworkETL_Mac_App.zip`.
 2. **Launch:** Double-click the application to open it.
    * *Security Prompt:* If macOS blocks the app, **Right-Click** (or hold `Control` and click) `webwork_ETL.app`, select **Open**, and click **Open** in the confirmation popup.
 3. **Format:**
