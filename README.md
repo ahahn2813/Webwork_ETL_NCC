@@ -26,7 +26,7 @@ The application cleans and restructures your exported roster automatically. Spec
 
 ### Windows Setup & Execution
 
-1. **Download:** Go to the [Releases page](../../releases) in this repository and download `WebWorkETL_Windows.exe`.
+1. **Download:** From the repository (the files above), download the file `WebWorkETL_Windows.exe`.
 2. **Launch:** Double-click `WebWorkETL_Windows.exe` to run the tool.
    * *SmartScreen Prompt:* If Windows shows a *"Windows protected your PC"* popup, click **More info** and then click **Run anyway**.
 3. **Format:**
@@ -37,7 +37,7 @@ The application cleans and restructures your exported roster automatically. Spec
 ---
 ### macOS Setup & Execution
 
-1. **Download:** Go to the [Releases page](../../releases) in this repository and download `webwork_ETL_mac.zip` (or `.app`).
+1. **Download:** From the repository (the files above), download `webwork_ETL_mac.zip` (or `.app`).
 2. **Launch:** Double-click the application to open it.
    * *Security Prompt:* If macOS blocks the app, **Right-Click** (or hold `Control` and click) `webwork_ETL.app`, select **Open**, and click **Open** in the confirmation popup.
 3. **Format:**
